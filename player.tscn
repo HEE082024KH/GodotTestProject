@@ -1,10 +1,10 @@
 [gd_scene load_steps=8 format=3 uid="uid://s18cp1d8b3mj"]
 
 [ext_resource type="Script" uid="uid://l7wtliin8ljx" path="res://Player.cs" id="1_sweqy"]
-[ext_resource type="Texture2D" uid="uid://drg835mkq6bdj" path="res://dodge_assets/art/playerGrey_walk1.png" id="2_2hs0m"]
-[ext_resource type="Texture2D" uid="uid://uodad6og3gnd" path="res://dodge_assets/art/playerGrey_walk2.png" id="3_1jxqw"]
-[ext_resource type="Texture2D" uid="uid://dyrrdqh3l586l" path="res://dodge_assets/art/playerGrey_up1.png" id="4_dw050"]
-[ext_resource type="Texture2D" uid="uid://3wfmn38r4fax" path="res://dodge_assets/art/playerGrey_up2.png" id="5_b26j0"]
+[ext_resource type="Texture2D" uid="uid://drg835mkq6bdj" path="res://Assets/dodge_assets/art/playerGrey_walk1.png" id="2_2hs0m"]
+[ext_resource type="Texture2D" uid="uid://uodad6og3gnd" path="res://Assets/dodge_assets/art/playerGrey_walk2.png" id="3_1jxqw"]
+[ext_resource type="Texture2D" uid="uid://dyrrdqh3l586l" path="res://Assets/dodge_assets/art/playerGrey_up1.png" id="4_dw050"]
+[ext_resource type="Texture2D" uid="uid://3wfmn38r4fax" path="res://Assets/dodge_assets/art/playerGrey_up2.png" id="5_b26j0"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_n7ghd"]
 animations = [{

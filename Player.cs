@@ -11,7 +11,7 @@ public partial class Player : Area2D
   {
     _screenSize = GetViewport().GetVisibleRect().Size;
   }
-  public override void _Process(float delta)
+  public override void _Process(double delta)
   {
     var velocity = new Vector2(); // The player's movement vector
     if (Input.IsActionPressed("ui_right"))
